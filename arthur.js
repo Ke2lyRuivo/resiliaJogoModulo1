@@ -52,5 +52,5 @@ function fase1() {
         }
       }
       function inicioPagina() {
-        location.replace("../jogo.html");
+        location.replace("../index.html");
       }

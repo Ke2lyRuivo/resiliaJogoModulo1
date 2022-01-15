@@ -52,7 +52,7 @@ function fase3() {
     }
   }
   function inicioPagina() {
-    location.replace("../jogo.html");
+    location.replace("../index.html");
   }
     
 
