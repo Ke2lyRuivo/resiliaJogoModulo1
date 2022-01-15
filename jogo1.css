@@ -1,0 +1,104 @@
+body{
+    height: 100%;
+    margin: 0;
+}
+
+.imagem{
+    background-image: url("planetaDoente3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+h1{
+    color: darkgreen;
+    margin: 40px;
+}
+ 
+
+h2{
+    color: darkgreen;
+    position: absolute;
+    top: 40px;
+    right: 80px;
+    
+}
+.avatar{
+    display: flex ;
+    margin-left: 720px;
+    margin-top: 30px;
+    
+}
+
+.avatar li{
+    display: inline;
+    margin-top: 60px;  
+    width: 30%;
+    text-align: center;
+    margin-inline: 1.5%;
+}
+.h3{
+    display: flex;
+    font-size: 30px;
+    vertical-align: top;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 5px;
+    
+}
+/*
+#imag1{
+    height: 1px;
+}
+#imag2{
+    width: 1%;
+}
+#imag3{
+    width: 1%;
+}
+
+
+nav li{
+    display: inline;
+    margin: 0 0 0 1px;
+}
+*/
+nav a{
+    
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    font-style: italic;
+    margin-top: 2px;
+}
+
+
+h4{
+    color: darkgreen;
+    size: 50px;
+    margin-right: 25px;
+    text-align: center;
+    
+}
+
+h5{
+    color: darkgreen;
+    size: 50px;
+    margin-left: 800px;
+    text-align: center;
+}
+.button{
+    text-decoration: none;
+    text-align: center;
+    margin-right: 800px;
+}
+
+.rodape{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkgreen;
+    margin-block-end: auto;
+
+}
+

@@ -1,0 +1,104 @@
+body{
+    height: 100%;
+    margin: 0;
+}
+
+.imagem{
+    background-image: url("planetaDoente3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+h1{
+    color: darkgreen;
+    margin: 40px;
+}
+ 
+
+h2{
+    color: darkgreen;
+    position: absolute;
+    top: 5px;
+    right: 80px;
+    size: 5px;
+    border: lightsalmon;
+    border-radius: 20px;
+    border-style: solid;
+    border-style: double;
+    
+}
+.avatar{
+    display: flex ;
+    margin-left: 720px;
+    
+}
+
+.avatar li{
+    display: inline-block;
+    margin-top: 160px;  
+    width: 30%;
+    text-align: center;
+    margin-inline: 1.5%;
+}
+.h3{
+    font-size: 30px;
+    vertical-align: top;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+/*
+#imag1{
+    height: 1px;
+}
+#imag2{
+    width: 1%;
+}
+#imag3{
+    width: 1%;
+}
+
+
+nav li{
+    display: inline;
+    margin: 0 0 0 1px;
+}
+*/
+nav a{
+    
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    font-style: italic;
+
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center; 
+    color: darkgreen;
+
+}
+
+h4{
+    color: darkgreen;
+    size: 50px;
+    margin-left: 800px;
+    text-align: center;
+    
+}
+.nome{
+    text-decoration: none;
+}
+
+.rodape{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkgreen;
+    margin-block-end: auto;
+
+}
+

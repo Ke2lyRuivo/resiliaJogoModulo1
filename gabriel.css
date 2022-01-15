@@ -1,0 +1,77 @@
+body{
+    height: 100%;
+    margin: 0;
+}
+
+.imagem{
+    background-image: url("planetaDoente3.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    display: inline-block;
+    color: darkgreen;
+    margin: 10px;
+}
+h2{
+    color: darkgreen;
+    margin-top: 1px;
+    margin-left: 700px;
+    text-align: center;
+}
+
+.avatar{
+    display: flex;
+    margin-top: 8px;
+    margin-left: 950px;
+    
+}
+.avatar li{
+    display: inline;
+    margin-top: 10%;
+    width: 20%;
+    text-align: center;
+    
+}
+.h3{
+    font-size: 30px;
+    vertical-align: top;
+    font-weight: bold;
+    font-style: italic;
+}
+nav a{
+    
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    font-style: italic;
+    margin: 5px;
+
+}
+
+h4{
+    color: darkgreen;
+    size: 15px;
+    margin-left: 700px;
+    text-align: center;
+
+}
+
+#numero{
+    size: 2px;
+    margin-left: 200px;
+}
+a{
+    text-decoration: none;
+}
+
+
+.rodape{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkgreen;
+    position: absolute;
+    margin-left: 500px;
+
+}

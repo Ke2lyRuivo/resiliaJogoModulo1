@@ -1,0 +1,32 @@
+.body,html{
+  
+    margin: 0;
+}
+
+.imagem{
+    
+    background-image: url("loss.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+   
+    
+
+}
+
+h1{
+    color: darkgreen;
+    margin-top: 50px;
+    margin-left: 600px;
+    text-align: center;
+    font-size: 100px;
+}
+
+button{
+    margin-left: 950px;
+
+}
+
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,44 @@
+.body,html{
+    height: 100%;
+    margin: 0;
+}
+
+.imagem{
+    
+    background-image: url("win.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+   
+    
+
+}
+
+h1{
+    
+    color: darkgreen;
+    margin-top: 20px;
+    margin-left: 700px;
+    font-size: 100px;
+    text-align: center;
+}
+ 
+p{
+    color: darkgreen;
+    margin-top: 20px;
+    margin-left: 350px;
+    font-size: 100px;
+    text-align: center;
+}
+
+button{
+    
+  
+    margin-left: 1200px;
+ 
+    
+
+}
+
+a{
+    text-decoration: none;
+}
